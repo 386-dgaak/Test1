@@ -54,3 +54,5 @@ git help – Zeigt Hilfeinformationen zu Git an.
 lachs
 
 Bohnen
+
+Arbi ist ein lachs 
