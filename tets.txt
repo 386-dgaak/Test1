@@ -50,3 +50,5 @@ git config --global user.name "Dein Name" – Setzt deinen Git-Benutzernamen.
 git config --global user.email "deine@mail.de" – Setzt deine Git-E-Mail-Adresse.
 
 git help – Zeigt Hilfeinformationen zu Git an.
+
+lachs
