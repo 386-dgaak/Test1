@@ -1,0 +1,52 @@
+📘 Git/GitHub-Kommandos für Anfänger
+🔧 Grundlegende Git-Kommandos
+
+git init – Erstellt ein neues Git-Repository im aktuellen Ordner.
+
+git clone [URL] – Klont ein bestehendes Repository (z. B. von GitHub) auf deinen Rechner.
+
+git status – Zeigt den aktuellen Status der Dateien im Arbeitsverzeichnis.
+
+git add [Datei] – Fügt eine Datei zur Staging-Area hinzu (für den nächsten Commit).
+
+git add . – Fügt alle geänderten Dateien zur Staging-Area hinzu.
+
+git commit -m "Nachricht" – Speichert die Änderungen dauerhaft mit einer Nachricht (Commit).
+
+git log – Zeigt die Historie der Commits im aktuellen Branch.
+
+git diff – Zeigt die Unterschiede zwischen Dateien vor dem Commit.
+
+🔁 Arbeiten mit Remote-Repositories (z. B. GitHub)
+
+git remote add origin [URL] – Verbindet dein lokales Repo mit einem Remote-Repository (z. B. GitHub).
+
+git push -u origin main – Schiebt den aktuellen Stand auf GitHub (erstmalig mit Setzen des Upstreams).
+
+git push – Schiebt die Commits zum Remote-Repository.
+
+git pull – Holt die neuesten Änderungen vom Remote-Repo und integriert sie.
+
+git fetch – Holt Änderungen vom Remote, ohne sie automatisch zu integrieren.
+
+🌿 Branching und Zusammenarbeit
+
+git branch – Zeigt alle Branches im Repo an.
+
+git branch [name] – Erstellt einen neuen Branch.
+
+git checkout [name] – Wechselt zu einem bestehenden Branch.
+
+git switch [name] – Alternative zu checkout zum Wechseln des Branches (moderner Befehl).
+
+git merge [name] – Führt den angegebenen Branch in den aktuellen zusammen.
+
+git branch -d [name] – Löscht einen lokalen Branch.
+
+🛠️ Weitere nützliche Kommandos
+
+git config --global user.name "Dein Name" – Setzt deinen Git-Benutzernamen.
+
+git config --global user.email "deine@mail.de" – Setzt deine Git-E-Mail-Adresse.
+
+git help – Zeigt Hilfeinformationen zu Git an.
