@@ -52,3 +52,5 @@ git config --global user.email "deine@mail.de" – Setzt deine Git-E-Mail-Adress
 git help – Zeigt Hilfeinformationen zu Git an.
 
 lachs
+
+Bohnen
